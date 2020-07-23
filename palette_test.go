@@ -25,7 +25,7 @@ func TestPalette_palette2048(t *testing.T) {
 		actualColor := palette.Convert(yellow)
 		actual := fmt.Sprint(actualColor)
 
-		expected := "rgba(248,184,0,255)---" // #F8B800
+		expected := "rgba(181,137,0,255)" // #b58900
 
 		if expected != actual {
 			t.Errorf("The actual color was not what was expected.")
