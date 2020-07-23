@@ -37,3 +37,8 @@ closestColor := palette.Convert(referenceColor)
 Also see:
 
 * https://github.com/reiver/go-palette2048
+
+
+## Solarized
+
+To learn more about the Solarized color palette refer to: https://ethanschoonover.com/solarized/
